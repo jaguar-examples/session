@@ -7,6 +7,9 @@ author: Ravi Teja Gudapati <tejainece@gmail.com>
 environment:
   sdk: '>=2.0.0 <3.0.0'
 
+executable:
+  jaguar_example_session: main
+
 dependencies:
   jaguar: ^2.2.0
   stencil: ^2.1.5
