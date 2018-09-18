@@ -1,6 +1,6 @@
 name: jaguar_example_session
 description: Example showcasing simplicity of using Sessions in Jaguar.
-version: 2.2.0
+version: 2.4.1
 homepage: https://github.com/Jaguar-dart/jaguar/wiki/Sessions
 author: Ravi Teja Gudapati <tejainece@gmail.com>
 
@@ -11,5 +11,5 @@ executable:
   jaguar_example_session: main
 
 dependencies:
-  jaguar: ^2.2.0
+  jaguar: ^2.4.4
   stencil: ^2.1.5
